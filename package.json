@@ -1,0 +1,31 @@
+{
+  "name": "alfa-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Liquidity & Finance Agent powered by GitHub Models and PinionOS x402",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "polymarket",
+    "x402",
+    "pinion-os",
+    "crypto"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^4.0.0",
+    "pinion-os": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
