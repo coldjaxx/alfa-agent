@@ -81,7 +81,7 @@ The repository is modularized for strict separation of concerns:
 **Local Setup:**
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/coldjaxx/alfa-agent.git](https://github.com/coldjaxx/alfa-agent.git)
+git clone https://github.com/coldjaxx/alfa-agent.git
 cd alfa-agent
 
 # 2. Install dependencies
